@@ -4,3 +4,10 @@ h1 {
 p {
     font-size: 20px;
 }
+footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    border-top: 3px solid black;
+    margin: 200;
+}
