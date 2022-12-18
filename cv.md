@@ -6,3 +6,6 @@
 # *Education*
 ## Soligorsk State Pedagogical College
 ## Mozyr State Pedagogical University
+# *Hobbies*
+## Travelling, knitting, reading books
+## Languages: Russian, Belarussian, English (B1)
